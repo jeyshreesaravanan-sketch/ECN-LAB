@@ -1,4 +1,6 @@
-# VERIFICATION OF KIRCHHOFF’S LAWS
+lp# VERIFICATION OF KIRCHHOFF’S LAWS
+## NAME: JEY SHREE S
+## REF NO: 25017927
 
 **AIM:**
 
@@ -24,11 +26,15 @@
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2025-12-26 at 18 25 48_8cc831f5](https://github.com/user-attachments/assets/835e841a-3985-45da-9cc2-544f4f0da7b6)
 
+![WhatsApp Image 2025-12-26 at 18 27 39_da434a2a](https://github.com/user-attachments/assets/14a5cc17-3058-41c0-a582-ac4c3336777f)
 
+![WhatsApp Image 2025-12-26 at 18 28 09_0d65d4dc](https://github.com/user-attachments/assets/71af3ea2-a48c-4533-adb6-a5f2c8ed9c0e)
 
+![WhatsApp Image 2025-12-26 at 18 28 28_0fa285f7](https://github.com/user-attachments/assets/3265d7d4-5377-41ea-b3ab-0ec7dd69887c)
 
-
+![WhatsApp Image 2025-12-26 at 18 28 47_a1f4e0d2](https://github.com/user-attachments/assets/552b495c-95ba-4cb8-b65f-ff5f50b1e544)
 
 
 
